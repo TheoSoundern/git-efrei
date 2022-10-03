@@ -24,10 +24,7 @@ _avec retour à la ligne_\
 
 **Je suis un paragraphe en gras.**
 
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
-ok
+| Syntax      | Description | Text |
+| ----------- | ----------- | ----------- |
+| Header      | Title       | Title       |
+| Paragraph   | Text        | Text        |
