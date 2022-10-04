@@ -83,3 +83,5 @@ Les deux commandes suivantes sont équivalentes à utiliser la commande :
 ```
 git pull origin <branche>
 ```
+
+Théo
