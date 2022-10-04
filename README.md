@@ -92,4 +92,4 @@ Dans l'autre branche :
 
 exercice 2? 
 
-Lis Berserk
+Lis Berserk, parce que c'est trop bien
