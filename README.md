@@ -90,4 +90,6 @@ Dans l'autre branche :
 
 1. Vous appliquerez les changements contenus dans le stash via la commande `git stash apply`.
 
-exercice 2?
+exercice 2? 
+
+Lis Berserk
